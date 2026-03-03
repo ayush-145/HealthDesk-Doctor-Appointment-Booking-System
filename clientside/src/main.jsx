@@ -6,7 +6,6 @@ import { BrowserRouter } from "react-router-dom";
 import AppContextProvider from "./context/AppContext.jsx";
 
 createRoot(document.getElementById("root")).render(
-  // To add support of react-router-dom v6 use BrowserRouter
   <BrowserRouter>
     <AppContextProvider>
       <App />
