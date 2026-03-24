@@ -31,8 +31,8 @@ const Footer = () => {
         <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-2 text-gray-600">
-            <li>+250-784-652-570</li>
-            <li>elyseniyibizi502@gmail.com</li>
+            <li>+91 6266729305</li>
+            <li>149ayush@gmail.com</li>
           </ul>
         </div>
       </div>
@@ -41,7 +41,7 @@ const Footer = () => {
       <div>
         <hr />
         <p className="py-5 text-sm text-center">
-          Copyright © 2024 ElyséeDev - All Right Reserved
+          Copyright © 2026 Ayush Jha - All Right Reserved
         </p>
       </div>
     </div>
