@@ -107,31 +107,10 @@ Detailed doctor profile with day-wise booking slots, appointment fees, related d
 
 ---
 
-### ℹ️ About Us
-Learn about HealthDesk's mission, vision, and commitment to healthcare excellence.
-
-![About Page](./screenshots/about-page.png)
-
----
-
-### 📞 Contact Us
-Office location, contact details, and career opportunities at HealthDesk.
-
-![Contact Page](./screenshots/contact-page.png)
-
----
-
 ### 🔐 User Authentication
 Clean sign-up and login forms with secure JWT-based authentication.
 
 ![Login Page](./screenshots/login-page.png)
-
----
-
-### 🦶 Footer
-Site-wide footer with company links, contact information, and copyright.
-
-![Footer](./screenshots/footer.png)
 
 ---
 
